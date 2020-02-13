@@ -1,0 +1,16 @@
+.card-icons {
+  display:flex;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  width: 250px;
+  height:100%;
+  flex-direction: column;
+  justify-content: center;
+  padding:20px;
+  border-radius: 5px;
+}
+
+.card-icons p {
+  margin-bottom: 0px;
+}
+
+

@@ -1,0 +1,20 @@
+.banner {
+  background-image: url('../../images/background.png');
+  background-size:cover;
+  background-position:center;
+  height:500px;
+  align-items: center;
+}
+
+.banner-container {
+  color:white;
+}
+
+.banner-container h1 {
+  margin-bottom: 20px;
+}
+
+.banner-container p {
+  margin-bottom: 30px;
+}
+
